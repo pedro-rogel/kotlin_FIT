@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">nav</string>
+    <string name="ir_para_outra_tela">Ir para outra tela</string>
+    <string name="vamos_para_a_segunda_tela">Vamos para a segunda tela</string>
+</resources>
