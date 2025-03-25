@@ -15,6 +15,13 @@
         android:layout_margin="100dp"
         android:layout_height="wrap_content"
         android:text="@string/vamos_para_a_segunda_tela" />
+
+    <Button
+        android:id="@+id/button3Main"
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="100dp"
+        android:text="@string/ir_para_a_terceira_tela"/>
 </LinearLayout>
 
  

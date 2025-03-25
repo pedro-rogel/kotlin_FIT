@@ -2,4 +2,10 @@
     <string name="app_name">nav</string>
     <string name="ir_para_outra_tela">Ir para outra tela</string>
     <string name="vamos_para_a_segunda_tela">Vamos para a segunda tela</string>
+    <string name="voltar_para_a_main_activity">Voltar para a main activity</string>
+    <string name="ir_para_a_terceira_tela">Ir para a terceira tela</string>
+    <string name="vinicius">Vinicius</string>
+    <string name="pedro_henrique">Pedro Henrique</string>
+    <string name="rogel_salgado">Rogel Salgado</string>
+    <string name="voltar_para_a_main_activity_terceira_tela">Voltar para a main Activity</string>
 </resources>
